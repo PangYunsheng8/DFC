@@ -1,0 +1,2 @@
+model_checkpoint_path: "sae-reuters10k.ckpt"
+all_model_checkpoint_paths: "sae-reuters10k.ckpt"
