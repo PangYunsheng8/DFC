@@ -16,4 +16,6 @@ DFC code for paper
 * File pretrain contains pretrain checkpoint obtained by an auto-encoder
 ## Run DFC on Reuters
 * Run DFC on Reuters Dataset
->python DFC.py
+'''
+python DFC.py
+'''
