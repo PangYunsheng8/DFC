@@ -11,7 +11,9 @@ DFC code for paper
 * tensorflow==1.9.0
 ## Files
 * DFC.py is the implementation of DFC algorithm
-* File data contains datasets
+* File data contains data makers
 * File centers contains initialization centers
 * File pretrain contains pretrain checkpoint obtained by an auto-encoder
 ## Run DFC on Reuters
+* Run DFC on Reuters Dataset
+  python DFC.py
