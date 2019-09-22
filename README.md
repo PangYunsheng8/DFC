@@ -1,6 +1,6 @@
 # DFC
 DFC code for paper 
->Deep Fuzz yClustering with Weighted Intra-class Variance and Extended Mutual Information Regularization
+>Deep Fuzzy Clustering with Weighted Intra-class Variance and Extended Mutual Information Regularization
 ## Requirement
 * python 3.5
 * munkres
